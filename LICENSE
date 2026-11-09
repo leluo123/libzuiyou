@@ -1,0 +1,132 @@
+libzuiyou Proprietary License
+Copyright (c) 2026. All rights reserved.
+
+中文摘要见文末。This license is written in English for legal clarity; the
+Chinese summary at the end is provided for convenience and has no separate
+legal effect.
+
+===============================================================================
+1. GRANT OF LICENSE
+===============================================================================
+
+Subject to the terms below, you are granted a limited, non-exclusive,
+non-transferable, revocable license to:
+
+  (a) use the compiled library (libzuiyou.so) for personal, non-commercial
+      purposes, including hobbyist bots, community management, and
+      anti-fraud research;
+
+  (b) integrate the library into your own applications, provided such
+      applications comply with Section 3.
+
+No source code is provided. No rights are granted to the source code.
+
+===============================================================================
+2. RESTRICTIONS
+===============================================================================
+
+You may NOT:
+
+  (a) redistribute, sublicense, sell, rent, or otherwise make the library
+      available to third parties;
+
+  (b) reverse engineer, decompile, disassemble, or attempt to derive the
+      source code, algorithms, or license keys, except to the extent such
+      restriction is prohibited by applicable law;
+
+  (c) remove, obscure, or alter any proprietary notices;
+
+  (d) use the library in a commercial product or paid service without
+      prior written permission.
+
+===============================================================================
+3. PROHIBITED USES
+===============================================================================
+
+The library MUST NOT be used for:
+
+  (a) fraud, scams, or any deceptive practice, including but not limited to
+      fake investment schemes, romance scams, impersonation, or phishing;
+
+  (b) mass registration, bulk account creation, or evading platform
+      anti-abuse systems;
+
+  (c) spam, unsolicited bulk messaging, or harassment of any person;
+
+  (d) scraping, collecting, or trading personal information of others;
+
+  (e) distributing illegal content, malware, or phishing links;
+
+  (f) any activity that violates applicable laws or the target platform's
+      terms of service.
+
+The author reserves the right to refuse or revoke authorization for any
+use that appears to fall under this section, and to publicly disclose
+such revocation.
+
+===============================================================================
+4. PRIVACY
+===============================================================================
+
+The library:
+
+  (a) does not collect, transmit, or store the user's personal data;
+
+  (b) does not read contacts, photos, location, SMS, or call logs;
+
+  (c) does not upload message content to the author or any third party;
+
+  (d) uses a locally-computed device fingerprint solely to bind a license
+      code to a device. This fingerprint is never transmitted.
+
+===============================================================================
+5. NO WARRANTY
+===============================================================================
+
+THE LIBRARY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE LIBRARY OR THE USE OR OTHER
+DEALINGS IN THE LIBRARY.
+
+===============================================================================
+6. TERMINATION
+===============================================================================
+
+This license terminates automatically if you breach any term. Upon
+termination you must cease all use and delete all copies.
+
+===============================================================================
+7. RELATIONSHIP TO THE PLATFORM
+===============================================================================
+
+This project is not affiliated with, endorsed by, or sponsored by the
+target platform. All trademarks belong to their respective owners.
+
+===============================================================================
+
+中文摘要
+
+本项目为闭源软件，仅授权个人非商业使用（娱乐型机器人、社群管理、反诈研究）。
+
+禁止：
+  · 二次分发、出售、商用
+  · 反编译、逆向、破解授权
+  · 诈骗、刷单、冒充、钓鱼
+  · 批量注册、规避平台风控
+  · 骚扰他人、群发垃圾信息
+  · 爬取或买卖他人个人信息
+  · 传播违法内容
+
+隐私：
+  · 不采集、不上传用户隐私数据
+  · 不读取通讯录、相册、位置、短信、通话记录
+  · 不回传聊天内容
+  · 设备指纹仅本地用于绑定授权，不外发
+
+作者保留对疑似滥用行为拒绝授权、撤销授权并公开声明的权利。
+
+本软件与目标平台官方无关。
